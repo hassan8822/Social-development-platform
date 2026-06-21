@@ -3,7 +3,7 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      title: "Road Cleaning in Cox's Bazar",
+      title: "Beach Cleanup Drive in Cox's Bazar",
       category: "Environment",
       image: "https://images.unsplash.com/photo-1616680214084-22670de1bc82?w=600&auto=format&fit=crop&q=80"
     },
@@ -21,7 +21,7 @@ const Gallery = () => {
     },
     {
       id: 4,
-      title: "Beach Cleanup Drive in Cox's Bazar",
+      title: "Road Cleanup in Dhaka",
       category: "Environment",
       image: "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?w=600&auto=format&fit=crop&q=80"
     },

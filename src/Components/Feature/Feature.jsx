@@ -43,7 +43,7 @@ const feature = [
 export default function Feature() {
   return (
     <section className="py-16 bg-linear-to-r from-green-50 to-blue-50">
-      <div className="max-w-6xl mx-auto px-4">
+      <div className="max-w-7xl mx-auto px-4">
 
         <h2 className="text-3xl font-bold text-center mb-10">
   Featured topics
