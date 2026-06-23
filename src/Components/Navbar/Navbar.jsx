@@ -14,7 +14,7 @@ const Navbar = () => {
       </li>
 
       <li>
-        <NavLink to="/upcoming-events">Upcoming Events</NavLink>
+        <NavLink to="/upcomingevents">Upcoming Events</NavLink>
       </li>
     </>
   );
@@ -73,15 +73,15 @@ const Navbar = () => {
                 className="menu dropdown-content bg-base-100 rounded-box z-10 mt-3 w-52 p-2 shadow"
               >
                 <li>
-                  <Link to="/create-event">Create Event</Link>
+                  <Link to="/createevent">Create Event</Link>
                 </li>
 
                 <li>
-                  <Link to="/manage-events">Manage Events</Link>
+                  <Link to="/manageevent">Manage Event</Link>
                 </li>
 
                 <li>
-                  <Link to="/joined-events">Joined Events</Link>
+                  <Link to="/joinedevent">Joined Event</Link>
                 </li>
               </ul>
 
